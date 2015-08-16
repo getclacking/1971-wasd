@@ -31,3 +31,7 @@ If you get it printed by WASD and things ain't right, or you just plain hate it,
 I will be getting a print of this set for myself, so hold on for the preview photos if you're easily spooked by non-existent/unproven product.
 
 Sleep tight! :)
+
+Oh and here's a nice picture by Scott Hansen (aka. ISO50, aka. Tycho.)
+
+![](http://blog.iso50.com/wp-content/uploads/2007/11/iso50-vuela-thumb.jpg)
