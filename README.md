@@ -10,7 +10,7 @@ A WASD svg keyboard layout, in the spirit of 1976, by a guy from 1971.
 
 # How to use it!?
 
-You can load the _1971.svg_ layout into the WASD custom key caps purchase page.
+Download _1971.svg_ from the link above.  You can then upload it into the WASD custom key caps design page at http://www.wasdkeyboards.com/
 
 You **MUST** set the key colors manually when you order the caps.
 
