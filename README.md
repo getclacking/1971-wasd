@@ -4,6 +4,10 @@ A WASD svg keyboard layout, in the spirit of 1976, by a guy from 1971.
 
 ![](preview.png)
 
+# Download 
+
+[Download the SVG layout <sup>right click and save</sup>](https://raw.githubusercontent.com/jasonm23/1971-wasd/master/1971.svg)
+
 # How to use it!?
 
 You can load the _1971.svg_ layout into the WASD custom key caps purchase page.
