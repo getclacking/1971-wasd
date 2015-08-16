@@ -1,4 +1,4 @@
-![](1971-logo.png)
+![](1971.logo.png)
 
 A WASD svg keyboard layout, in the spirit of 1976, by some guy from 1971.
 
