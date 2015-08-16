@@ -22,7 +22,7 @@ If you want to match the 1976 colors more closely, you will need to edit the SVG
 
 Sure thing, download [InkScape](https://inkscape.org/en/download/) and just change the colors on the layer named `design`.  It should not be necessary for me to say this, but I offer no warranty, or liability. This is an at your own risk type of deal.
 
-There's a lot of other layers in there, any visible layer will be printed unless you specifically tell WASD not to. So I'd recommend you don't do that!
+There's a lot of other layers in there, any visible layer will be printed unless you specifically tell WASD not to. So I'd highly recommend you don't make any other layer visible!
 
 If you want more detailed instructions for using InkScape, please hunt around on Google for tutorials.
 
