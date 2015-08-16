@@ -34,4 +34,4 @@ Sleep tight! :)
 
 Oh and here's a nice picture by Scott Hansen (aka. ISO50, aka. Tycho.)
 
-![](http://blog.iso50.com/wp-content/uploads/2007/11/iso50-vuela-thumb.jpg)
+[![](http://blog.iso50.com/wp-content/uploads/2007/11/iso50-vuela-thumb.jpg)](http://blog.iso50.com)
