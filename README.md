@@ -24,7 +24,7 @@ If you want more detailed instructions for using InkScape, please hunt around on
 
 # Disclaimer
 
-I accept no responsibility or provide no warranties, guarantees or assurances with this design. I mean, it should work just fine, and it looks pretty sweet, if you ask me!
+I accept no responsibility or provide no warranties, guarantees or assurances with this design. I mean, it should work just fine, and it looks pretty sweet, if you ask me! But, if you're expecting some sort of shared liability etc. you just forget that right now mister (or missy)
 
 If you get it printed by WASD and things ain't right, or you just plain hate it, sorry, them's the breaks.
 
