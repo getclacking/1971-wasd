@@ -1,10 +1,10 @@
-# 1971
+![](1971-logo.png)
 
-A WASD svg keyboard layout, in the spirit of 1976, by a guy from 1971.
+A WASD svg keyboard layout, in the spirit of 1976, by some guy from 1971.
 
 ![](preview.png)
 
-# Download 
+# Download
 
 [Download the SVG layout <sup>right click and save</sup>](https://raw.githubusercontent.com/jasonm23/1971-wasd/master/1971.svg)
 
