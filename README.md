@@ -48,6 +48,12 @@ I will be getting a print of this set for myself, so hold on for the preview pho
 
 Sleep tight! :)
 
-Oh and here's a nice picture by Scott Hansen (aka. ISO50, aka. Tycho.)
+# Credit
+
+These designs by Scott Hansen (aka. Tycho / ISO50) inspired the poster which inspired the 1976 set... (there's a complicated, blameless, lack of credit before this. Sebastian neglected to mention where he got his 1976 poster idea from, and claimed it was purely inspired by Portal... I don't know why, but shit happens.)
 
 [![](http://blog.iso50.com/wp-content/uploads/2007/11/iso50-vuela-thumb.jpg)](http://blog.iso50.com)
+
+Before you use this set for free, go ahead and buy one of Scott's awesome prints, or fantastic albums.
+
+http://shop.iso50.com/collections/studio-editions/products/1971-giclee
