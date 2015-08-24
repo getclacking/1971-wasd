@@ -10,6 +10,12 @@ Just to be clear, this is what is printed. You set the key colors yourself, when
 
 ![](what-prints-preview.png)
 
+# Photos
+
+[![](http://i.imgur.com/BXD9ZYxl.jpg)](http://imgur.com/a/IVlZk)
+
+[Vist the photo album on Imgur](http://imgur.com/a/IVlZk)
+
 # Download
 
 [Download the SVG layout <sup>right click and save</sup>](https://raw.githubusercontent.com/jasonm23/1971-wasd/master/1971.svg)
